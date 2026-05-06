@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://grannyunblockedonline.github.io/</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Granny Unblocked -->
+  <url>
+    <loc>https://grannyunblockedonline.github.io/p/granny-unblocked.html</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://grannyunblockedonline.github.io/p/granny-2-asylum-horror-house.html</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://grannyunblockedonline.github.io/p/granny-3-unblocked.html</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://grannyunblockedonline.github.io/extracted_data/game_icons/granny-3.webp</image:loc>
+      <image:title>Granny 3</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://grannyunblockedonline.github.io/p/baldis-basics-unblocked.html</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://grannyunblockedonline.github.io/extracted_data/game_icons/Baldi-S-Basics-unblocked.webp</image:loc>
+      <image:title>Baldi's Basics Unblocked</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://grannyunblockedonline.github.io/p/five-nights-at-freddys-unblocked.html</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://grannyunblockedonline.github.io/extracted_data/game_icons/fnaf.webp</image:loc>
+      <image:title>Five Nights at Freddy's Unblocked</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://grannyunblockedonline.github.io/p/fear-response.html</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://grannyunblockedonline.github.io/extracted_data/game_icons/Fear Response.webp</image:loc>
+      <image:title>Fear Response Unblocked</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Static Pages -->
+  <url>
+    <loc>https://grannyunblockedonline.github.io/about-us.html</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://grannyunblockedonline.github.io/contact-us.html</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://grannyunblockedonline.github.io/privacy-policy.html</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://grannyunblockedonline.github.io/terms-of-service.html</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://grannyunblockedonline.github.io/dmca.html</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://grannyunblockedonline.github.io/favorite.html</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>

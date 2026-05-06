@@ -1,0 +1,43 @@
+# Robots.txt for Granny Unblocked Online
+# https://grannyunblockedonline.github.io/robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /embed/
+Disallow: /cache/
+Disallow: /resources/
+Disallow: /scripts/
+Disallow: *.json
+Disallow: /extracted_data/
+
+# Allow crawling of game pages
+Allow: /p/
+Allow: /game/
+Allow: /hot-games/
+Allow: /new-games/
+Allow: /top-popular/
+
+# Allow CSS and JS for better rendering
+Allow: /resources/css/
+Allow: /resources/js/
+
+# Crawl-delay (optional, adjust based on server capacity)
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://grannyunblockedonline.github.io/sitemap.xml
+
+# Specific bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /cache/data/image/
+Allow: /data/image/
+Allow: /extracted_data/game_icons/
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
