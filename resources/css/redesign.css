@@ -1,0 +1,55 @@
+* { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important; }
+
+:root {
+  --color-highlight: #c0392b !important;
+  --font-heading: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif !important;
+}
+
+.dark {
+  --color-highlight: #e74c3c !important;
+}
+
+.text-\[#27391C\] { color: #e0e0e0 !important; }
+.hover\:text-\[#00a35a\]:hover { color: #e74c3c !important; }
+.text-\[\#00a35a\], .dark\:text-\[\#00a35a\] { color: #e74c3c !important; }
+.bg-\[\#00a35a\] { background-color: #c0392b !important; }
+.hover\:bg-\[\#00a35a\]\/20:hover { background-color: rgba(192, 57, 43, 0.2) !important; }
+.bg-\[\#00a35a\]\/10 { background-color: rgba(192, 57, 43, 0.1) !important; }
+.from-\[\#1a1a1a\]\/10 { --tw-gradient-from: rgba(26, 26, 26, 0.1) !important; }
+.dark\:from-\[\#1a1a1a\]\/20 { --tw-gradient-from: rgba(26, 26, 26, 0.2) !important; }
+.to-white\/5 { --tw-gradient-to: rgba(255, 255, 255, 0.03) !important; }
+.dark\:to-gray-900\/10 { --tw-gradient-to: rgba(10, 10, 10, 0.1) !important; }
+.thumb-card { background-color: #1a1a1a !important; }
+.dark\:bg-neutral-900\/95 { background-color: #1a1a1a !important; }
+.bg-white\/95 { background-color: #1a1a1a !important; }
+.dark\:bg-gray-800 { background-color: #141414 !important; }
+.text-gray-600, .dark\:text-gray-300 { color: #cccccc !important; }
+.text-gray-800, .dark\:text-white { color: #e8e8e8 !important; }
+.dark\:text-gray-400 { color: #999999 !important; }
+.text-gray-500\/50 { color: rgba(153, 153, 153, 0.5) !important; }
+.text_color { color: #cccccc !important; }
+.text_color:hover { color: #e74c3c !important; }
+.rounded-3xl { border-color: #2a2a2a !important; }
+.input_search { background-color: #1a1a1a !important; color: #e0e0e0 !important; border-color: #2a2a2a !important; }
+.input_search:focus { border-color: #c0392b !important; }
+.dark\:border-gray-700 { border-color: #2a2a2a !important; }
+.border-gray-200 { border-color: #2a2a2a !important; }
+a, .text_color, nav a { color: #cccccc !important; }
+nav a:hover { color: #e74c3c !important; }
+.play-button { background: rgba(192, 57, 43, 0.9) !important; border-color: #e74c3c !important; }
+.play-button:hover { background: rgba(192, 57, 43, 1) !important; transform: scale(1.1); }
+.g-footer__button { color: #cccccc !important; }
+.g-footer__button:hover { color: #e74c3c !important; }
+.shadow-lg { box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important; }
+.shadow-2xl { box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4) !important; }
+.shadow-\[#111111\]\/10 { box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important; }
+.hover\:shadow-2xl:hover { box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5) !important; }
+.content-inner { background-color: #141414 !important; }
+.player-footer { --box-bg-color: #1a1a1a !important; --btn-control: #2a2a2a !important; --btn-control-hover: #c0392b !important; --color-primary: #e8e8e8 !important; background-color: #1a1a1a !important; }
+.player-footer__inner { background: transparent !important; border: none !important; }
+.player-footer h1 { color: #e8e8e8 !important; font-family: inherit !important; }
+.favorited, .favorited .svg-icon__link { color: #e74c3c !important; fill: #e74c3c !important; }
+.page-content h2, .page-content h3, .sub_description h2, .sub_description h3 {
+  color: #e74c3c !important;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif !important;
+}
